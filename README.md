@@ -1,3 +1,3 @@
 # demo
-this is my first Git repository
-author- Saee Sonawane
+This is my first Git Repository.
+Author- Saee Sonawane
